@@ -1,9 +1,0 @@
-Tools!!
-
-
-GIT:Yes
-Linux:Yes
-Maven:Yes
-Jenkins:Partial
-Docker: No
-Jenkins: Partial

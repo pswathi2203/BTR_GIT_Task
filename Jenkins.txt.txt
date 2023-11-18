@@ -1,5 +1,0 @@
-Write down the topics you know in Jenkins
-
---> Freestyle Project
---> Creating nodes
---> Creating users
