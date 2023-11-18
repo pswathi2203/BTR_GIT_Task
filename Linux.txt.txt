@@ -1,0 +1,11 @@
+Write down the topics you know in Linux
+--> Software
+--> Linux Architecture
+--> Linux Commands
+--> Shell
+--> Shell Scripting
+--> Types of Shells
+--> Shell Commands
+--> Diff b/w Linux and Windows
+--> How Linux came to picture
+

@@ -1,0 +1,21 @@
+Skills:
+
+--> JAVA: OOPS, Collection Framework, JDBC, Servlets, Hibernate, Spring, SpringBoot
+--> FrontEnd Technologies: HTML5, CSS3, JavaScript
+--> Python
+--> Data Structures
+--> Cloud: AWS
+--> C++
+--> Testing: Selenium, Manual Testing
+--> DataBase: SQL, MySQL
+--> AWS: EC2, 
+	 S3, 
+	 Lambda, 
+	 CloudWatch, 
+	 CloudShell, 
+	 VPC, 
+	 IAM,
+	 SNS,
+	 EBS,
+ 	 Event,
+	 Route53 
