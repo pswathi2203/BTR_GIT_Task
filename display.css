@@ -1,0 +1,21 @@
+*{
+    display: inline-block
+}
+h1{
+    background-color: darkseagreen;
+}
+p{
+    background-color: chartreuse;
+}
+span{
+    background-color: blueviolet;
+}
+button{
+    background-color: cadetblue;
+}
+a{
+    background-color: burlywood;
+}
+input{
+    background-color: coral;
+}

@@ -1,0 +1,16 @@
+body{
+    /* color: blue;
+    /* background: url(../MEDIA/IMAGE/0721865e3c2b40c1f42250c8224631b8--krishna-radha-lord-krishna.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    /* background: linear-gradient(135deg,orange, white, green);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh; */
+    /* background: linear-gradient(rgba(24, 23, 24, 0.158),rgba(22, 21, 22, 0.158)), url(../MEDIA/IMAGE/bokeh-2072271_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh; */
+} 
+button{
+    background-color: cornflowerblue;
+    color: bisque;
+}

@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(145deg, lightblue,lightpink );
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+div{
+    background-color: white;
+    width: 300px;
+    height: auto;
+    /* margin: 100px;*/
+    margin: auto;
+    padding: 50px;
+    border-style: solid;
+    border-color: dimgray;
+    border-width: 5px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(112, 157, 172);
+}
