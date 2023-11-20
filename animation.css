@@ -1,0 +1,79 @@
+ /* div{
+    margin: auto;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+    height: 200px;
+    width: 200px;
+    background-color: cadetblue;
+    position: relative;
+    animation-name: square;
+    animation-duration: 10s;
+    animation-timing-function: ease;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: backwards;
+}  */
+/* @keyframes square {
+    from{
+        background-color: cornflowerblue;
+    }
+    to{
+        background-color: darkcyan;
+    }
+} */
+/* @keyframes square {
+    10%{
+        background-color: darkseagreen;
+        top: 100px;
+    }
+    30%{
+        background-color: goldenrod;
+         left: 200px;
+    /}
+    50%{
+        background-color: green;
+    }
+    70%{
+        background-color: crimson;
+    }
+}  */
+
+body{
+    height: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    font-size: 500px;
+    color: red;
+    animation-name: heart;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+@keyframes heart {
+    0%{
+        font-size: 500px;
+    }
+    20%{
+        font-size: 550px;
+    }
+    40%{
+        font-size: 500px;
+    }
+    60%{
+        font-size: 550px;
+    }
+    80%{
+        font-size: 500px;
+    }
+    100%{
+        font-size: 550px;
+    }
+} 
+    
+
